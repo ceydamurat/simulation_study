@@ -47,7 +47,6 @@ The simulation results demonstrate how the underlying data distribution affects 
 | t-Distribution | SVM, Naive Bayes |
 | Gamma-t Mixture | SVM, Gradient Boosting, Random Forest |
 
-### Interpretation
 
 The findings highlight the **critical role of data distribution** in model selection and algorithmic success.
 
